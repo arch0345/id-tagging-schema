@@ -1536,6 +1536,10 @@
     "replace": {"sport": "shuffleboard"}
   },
   {
+    "old": {"sport": "shooting_range"},
+    "replace": {"sport": "shooting"}
+  },
+  {
     "old": {"station": "light_rail"},
     "replace": {"station": "light_rail", "light_rail": "yes"}
   },
