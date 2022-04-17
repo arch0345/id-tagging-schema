@@ -19,7 +19,8 @@
         "long drop",
         "outhouse",
         "pit toilet",
-        "privy"
+        "privy",
+        "vault toilet"
     ],
     "tags": {
         "amenity": "toilets",
