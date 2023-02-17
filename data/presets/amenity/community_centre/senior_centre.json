@@ -1,0 +1,22 @@
+{
+    "icon": "maki-town-hall",
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [
+        "senior center",
+        "senior centre",
+        "senior association"
+    ],
+    "tags": {
+        "amenity": "community_centre",
+        "community_centre": "senior_centre"
+    },
+    "addTags": {
+        "amenity": "community_centre",
+        "community_centre": "senior_centre",
+        "community_centre:for": "senior"
+    },
+    "name": "Senior Center"
+}

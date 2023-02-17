@@ -13,5 +13,10 @@
         "amenity": "community_centre",
         "community_centre": "youth_centre"
     },
+    "addTags": {
+        "amenity": "community_centre",
+        "community_centre": "youth_centre",
+        "community_centre:for": "juvenile"
+    },
     "name": "Youth Center"
 }
