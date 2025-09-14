@@ -1,6 +1,6 @@
 {
     "locationSet": {
-        "exclude": [
+        "include": [
             "us"
         ]
     },
@@ -10,6 +10,13 @@
     "terms": [
         "educational stages"
     ],
+    "strings": {
+        "options": {
+            "K-5": "K-5",
+            "K-6": "K-6",
+            "K-8": "K-8"
+        }
+    },
     "snake_case": false,
     "caseSensitive": true
 }

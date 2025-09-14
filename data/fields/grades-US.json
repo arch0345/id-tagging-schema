@@ -1,0 +1,29 @@
+{
+    "locationSet": {
+        "include": [
+            "us"
+        ]
+    },
+    "key": "grades",
+    "type": "combo",
+    "label": "Grade Levels",
+    "terms": [
+        "educational stages"
+    ],
+    "strings": {
+        "options": {
+            "K-5": "K-5",
+            "K-6": "K-6",
+            "K-8": "K-8",
+            "K-12": "K-12",
+            "6-8": "6-8",
+            "6-12": "6-12",
+            "7-8": "7-8",
+            "7-9": "7-9",
+            "9-12": "9-12",
+            "10-12": "10-12"
+        }
+    },
+    "snake_case": false,
+    "caseSensitive": true
+}

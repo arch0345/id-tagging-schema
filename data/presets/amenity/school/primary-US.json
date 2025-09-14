@@ -5,6 +5,18 @@
             "us"
         ]
     },
+    "fields": [
+        "name",
+        "school-US",
+        "operator",
+        "operator/type",
+        "address",
+        "grades_primary-US",
+        "religion",
+        "denomination",
+        "website",
+        "building_area"
+    ],
     "terms": [
         "primary school"
     ],
@@ -14,10 +26,10 @@
     ],
     "tags": {
         "amenity": "school",
-        "isced:level": "1"
+        "school": "primary"
     },
     "reference": {
-        "key": "isced:level"
+        "key": "school"
     },
     "name": "Elementary School Grounds"
 }

@@ -5,6 +5,18 @@
             "us"
         ]
     },
+    "fields": [
+        "name",
+        "school-US",
+        "operator",
+        "operator/type",
+        "address",
+        "grades_middle-US",
+        "religion",
+        "denomination",
+        "website",
+        "building_area"
+    ],
     "terms": [
         "junior high school",
         "intermediate school"
@@ -15,10 +27,10 @@
     ],
     "tags": {
         "amenity": "school",
-        "isced:level": "2"
+        "school": "middle"
     },
     "reference": {
-        "key": "isced:level"
+        "key": "school"
     },
     "name": "Middle School Grounds"
 }

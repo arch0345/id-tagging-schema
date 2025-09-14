@@ -5,6 +5,18 @@
             "us"
         ]
     },
+    "fields": [
+        "name",
+        "school-US",
+        "operator",
+        "operator/type",
+        "address",
+        "grades_secondary-US",
+        "religion",
+        "denomination",
+        "website",
+        "building_area"
+    ],
     "terms": [
         "senior high school",
         "secondary school"
@@ -15,10 +27,10 @@
     ],
     "tags": {
         "amenity": "school",
-        "isced:level": "3"
+        "school": "secondary"
     },
     "reference": {
-        "key": "isced:level"
+        "key": "school"
     },
     "name": "High School Grounds"
 }

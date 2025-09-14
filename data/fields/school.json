@@ -1,0 +1,23 @@
+{
+    "locationSet": {
+        "include": [
+            "us"
+        ]
+    },
+    "key": "school",
+    "type": "combo",
+    "label": "Type",
+    "strings": {
+        "options": {
+            "primary": "Elementary School",
+            "intermediate": "Middle School",
+            "secondary": "High School",
+            "charter": "Charter School",
+            "magnet": "Magnet School",
+            "special_education_needs": "Special Education School",
+            "seminary": "Seminary"
+        }
+    },
+    "autoSuggestions": false,
+    "customValues": false
+}

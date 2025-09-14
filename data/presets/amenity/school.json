@@ -2,11 +2,12 @@
     "icon": "temaki-school",
     "fields": [
         "name",
-        "isced/level-US",
+        "school-US",
         "operator",
         "operator/type",
         "address",
         "grades",
+        "grades-US",
         "religion",
         "denomination",
         "website",
@@ -30,10 +31,7 @@
         "point"
     ],
     "terms": [
-        "academy",
-        "elementary school",
-        "middle school",
-        "high school"
+        "academy"
     ],
     "tags": {
         "amenity": "school"
